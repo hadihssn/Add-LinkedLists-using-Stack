@@ -1,2 +1,2 @@
-# Add-LinkedLists-using-Stack
+# Add-Linked-Lists-using-Stack
 C++ Code based on Linked List and Stack
